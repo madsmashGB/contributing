@@ -1,15 +1,15 @@
 Contributing
 ============
-If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
+If you want to contribute to a project and make it better, your help is most welcome. Contributing on Github is also a great way to learn more about social coding, new technologies, and their ecosystems. You can learn to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
 
 ### How to make a clean pull request
 
 Look for a project's contribution instructions. If there are any, follow them.
 
 - Create a personal fork of the project on Github.
-- Clone the fork on your local machine. Your remote repo on Github is called `origin`.
-- Add the original repository as a remote called `upstream`.
-- If you created your fork a while ago be sure to pull upstream changes into your local repository.
+- Clone the fork on your local machine. Your remote repository (repo) on Github is called `origin`.
+- Add the original repo as a remote called `upstream`.
+- If you created your fork a while ago be sure to pull upstream changes into your local repo.
 - Create a new branch to work on! Branch from `develop` if it exists, else from `master`.
 - Implement/fix your feature, comment your code.
 - Follow the code style of the project, including indentation.
